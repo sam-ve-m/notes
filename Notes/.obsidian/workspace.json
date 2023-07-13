@@ -11,8 +11,12 @@
             "id": "a58bcab440767a1b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Year_0-Summer-Reading_and_Writing/Module 2.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4aa5815037864907",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Year_0-Summer-Reading_and_Writing/Module 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Year_0-Summer-Reading_and_Writing/Module 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Year_0-Summer-Reading_and_Writing/Module 2.md"
+              }
             }
           }
         ]
@@ -140,6 +149,9 @@
   },
   "active": "a58bcab440767a1b",
   "lastOpenFiles": [
+    "Pasted image 20230713094442.jpg",
+    "Year_0-Summer-Reading_and_Writing/Module 2.md",
+    "Year_0-Summer-Reading_and_Writing",
     "plugins/obsidian-git/manifest.json",
     "plugins/obsidian-git/main.js",
     "plugins/obsidian-git",
