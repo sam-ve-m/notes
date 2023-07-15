@@ -42,3 +42,21 @@ In most reading reasons is, there is a reader's thesis that need to be kept in m
 ![[activity_2.3.4.pdf]]
 
 
+# 2.4 Module Two final check-in: Adapting strategies
+
+In 1-2 paragraphs (approx. 200-400 words), answer the questions below.
+
+ **Note: You** don't have to answer _all_ of the questions below; choose the ones that resonate with you and will help you develop a detailed reflection that tracks your learning. 
+
+- What critical reading or active listening strategies did you use in high school?
+- What strategies worked for you and where did they let you down?
+- What strategies could you adapt for university — and how might you adapt them?
+- What strategies did you find most useful to learn about and try in this module?
+- How would you define the strategies you learned in the module? What are "notes for gist"? for example? What are the benefits of annotation?
+- Think back to Module One. What is it about the situation or goals of the university that particularly invites the kinds of active learning strategies we covered in this module?
+
+--------
+
+In my high school, critical reading was developed through several books with business administration content. Usually, I used the strategy of summarizing each chapter with my own words, then creating charts to make it more visual and easier. In addition, what helped me the most in these activities was to exchange information with my peers and discuss our interpretations of each presented concept, searching for the best definition to express its gist. On the other hand, active listening was required in classes and in the internship programs. So with my teachers and job peers, I used the Outline strategy to quickly write down my raw understanding of their teachings and demands. After all, I dumped these notes into summarized charts for future review. 
+
+In this module, I was presented with a tip that was at the same time simple and crucial and that I had never thought about before: for different situations, one could use different strategies. Before, I was wrongly biased to think that I needed to improve my skills in one method, so I would be better at taking notes. Now, I see that it is not only charts that will solve my problems, but knowing different methods, such as Notes for Gist, will make the difference.

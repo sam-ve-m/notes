@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "3bcc46e6c6009287",
+    "type": "split",
+    "children": [
+      {
+        "id": "314128c4da3ec6fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef8101cdd0529348",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Year_0-Summer-Reading_and_Writing/Module 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b11ae0ae03a2f14c",
+    "type": "split",
+    "children": [
+      {
+        "id": "457cf8d487ff8977",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "822c5b62fbeec52c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fd7c659e139f8cbd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#English",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "45d9daf0e74d4fdf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "d68611f52d5efdfb",
+            "type": "leaf",
+            "state": {
+              "type": "socrates-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "72742ab5fcafdca5",
+    "type": "split",
+    "children": [
+      {
+        "id": "794f56b469b0804d",
+        "type": "tabs",
+        "dimension": 51.356589147286826,
+        "children": [
+          {
+            "id": "2f340a216e50c5e0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "f9478d4fb734974f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Year_0-Summer-Reading_and_Writing/Module 2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f3f8e3dd37d86d47",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/Year_0-Summer-Reading_and_Writing/Module 2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "97570cd310bfbdeb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e7f10ce19d11f5b4",
+        "type": "tabs",
+        "dimension": 48.643410852713174,
+        "children": [
+          {
+            "id": "97dfc9f1f7f80fcb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/Year_0-Summer-Reading_and_Writing/Module 2.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ef8101cdd0529348",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "2023-07-14.md",
+    "Notes/Year_0-Summer-Reading_and_Writing/Module 2.md"
+  ]
+}
