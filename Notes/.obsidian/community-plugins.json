@@ -2,5 +2,7 @@
   "obsidian-git",
   "dataview",
   "obsidian-icon-folder",
-  "ai-commander"
+  "obsidian-annotator",
+  "obsidian-languagetool-plugin",
+  "obsidian-pandoc"
 ]
