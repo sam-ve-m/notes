@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b971d82ed581e78e",
+        "id": "8d6da80d9e7574dd",
         "type": "tabs",
         "children": [
           {
-            "id": "75dad465d609691c",
+            "id": "258f48c6af73d1a5",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Year_0-Summer-Reading_and_Writing/M3 Worksheet.pdf"
+                "file": "Year_0-Summer-Reading_and_Writing/activities/M3.1 Vocabulary Template.pdf"
               }
             }
           }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year_0-Summer-Reading_and_Writing/M3 Worksheet.pdf",
+                "file": "Year_0-Summer-Reading_and_Writing/activities/M3.1 Vocabulary Template.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year_0-Summer-Reading_and_Writing/M3 Worksheet.pdf",
+                "file": "Year_0-Summer-Reading_and_Writing/activities/M3.1 Vocabulary Template.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year_0-Summer-Reading_and_Writing/M3 Worksheet.pdf"
+                "file": "Year_0-Summer-Reading_and_Writing/activities/M3.1 Vocabulary Template.pdf"
               }
             }
           }
@@ -159,24 +159,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75dad465d609691c",
+  "active": "258f48c6af73d1a5",
   "lastOpenFiles": [
-    "Year_0-Summer-Reading_and_Writing/M3 Worksheet.pdf",
+    "Year_0-Summer-Reading_and_Writing/activities/M3 Worksheet.pdf",
+    "Year_0-Summer-Reading_and_Writing/Module 3 - UBC Library System.md",
+    "Year_0-Summer-Reading_and_Writing/activities/M3.1 Vocabulary Template.pdf",
+    "Year_0-Summer-Reading_and_Writing/activities/M3.2 Vocabulary Template.pdf",
+    "Year_0-Summer-Reading_and_Writing/activities",
     "Year_0-Summer-Reading_and_Writing/Module_3_worksheet.docx",
     "Year_0-Summer-Reading_and_Writing/Module_3_worksheet.md",
     "Untitled.md",
     "Year_0-Summer-Reading_and_Writing/Module 2 - Reading and Noting.md",
-    "Year_0-Summer-Reading_and_Writing/Module 3 - UBC Library System.md",
     "M3 Worksheet.docx",
     "Year_0-Summer-Reading_and_Writing/M3 Worksheet 1.docx",
     "Year_0-Summer-Reading_and_Writing/M3 Worksheet.docx",
-    "Year_0-Summer-Reading_and_Writing/activity_2.3.4.pdf",
+    "Year_0-Summer-Reading_and_Writing/activities/activity_2.3.4.pdf",
     "Year_0-Summer-Reading_and_Writing/images/Pasted image 20230713105906.png",
     "Year_0-Summer-Reading_and_Writing/images",
-    "Year_0-Summer-Reading_and_Writing/images/Pasted image 20230713094442.jpg",
-    "Year_0-Summer-Reading_and_Writing",
-    "plugins/obsidian-git/manifest.json",
-    "plugins/obsidian-git/main.js",
-    "plugins/obsidian-git"
+    "Year_0-Summer-Reading_and_Writing/images/Pasted image 20230713094442.jpg"
   ]
 }
