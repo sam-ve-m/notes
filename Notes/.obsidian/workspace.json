@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c51b6c766d4429e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year_0-Summer-Reading_and_Writing/Module 4 - Writing in the university.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Year_0-Summer-Reading_and_Writing/Module 3 - UBC Library System.md",
+                "file": "Year_0-Summer-Reading_and_Writing/Module 4 - Writing in the university.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Year_0-Summer-Reading_and_Writing/Module 3 - UBC Library System.md",
+                "file": "Year_0-Summer-Reading_and_Writing/Module 4 - Writing in the university.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Year_0-Summer-Reading_and_Writing/Module 3 - UBC Library System.md"
+                "file": "Year_0-Summer-Reading_and_Writing/Module 4 - Writing in the university.md"
               }
             }
           }
@@ -161,23 +174,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "258f48c6af73d1a5",
+  "active": "c51b6c766d4429e5",
   "lastOpenFiles": [
+    "Year_0-Summer-Reading_and_Writing/activities/M4 Worksheet.pdf",
+    "Year_0-Summer-Reading_and_Writing/Module 4 - Writing in the university.md",
+    "Year_0-Summer-Reading_and_Writing/activities/M4 Worksheet.docx",
+    "Year_0-Summer-Reading_and_Writing/Module 3 - UBC Library System.md",
     "Year_0-Summer-Reading_and_Writing/activities/M3.1 Vocabulary Template.pdf",
     "Year_0-Summer-Reading_and_Writing/activities/M3 Worksheet.pdf",
-    "Year_0-Summer-Reading_and_Writing/Module 3 - UBC Library System.md",
     "Year_0-Summer-Reading_and_Writing/activities/M3.2 Vocabulary Template.pdf",
     "Year_0-Summer-Reading_and_Writing/activities",
     "Year_0-Summer-Reading_and_Writing/Module_3_worksheet.docx",
     "Year_0-Summer-Reading_and_Writing/Module_3_worksheet.md",
-    "Untitled.md",
     "Year_0-Summer-Reading_and_Writing/Module 2 - Reading and Noting.md",
     "M3 Worksheet.docx",
     "Year_0-Summer-Reading_and_Writing/M3 Worksheet 1.docx",
     "Year_0-Summer-Reading_and_Writing/M3 Worksheet.docx",
-    "Year_0-Summer-Reading_and_Writing/activities/activity_2.3.4.pdf",
     "Year_0-Summer-Reading_and_Writing/images/Pasted image 20230713105906.png",
-    "Year_0-Summer-Reading_and_Writing/images",
     "Year_0-Summer-Reading_and_Writing/images/Pasted image 20230713094442.jpg"
   ]
 }
