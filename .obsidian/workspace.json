@@ -8,28 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ef8101cdd0529348",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Year_0-Summer-Reading_and_Writing/Module 4 - Writing in the university.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "122477bd528bf27f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notes/Year_0-Summer-Reading_and_Writing/activities/M3 Worksheet.pdf"
-              }
-            }
-          },
-          {
             "id": "bbe071cd21f1518e",
             "type": "leaf",
             "state": {
@@ -57,8 +35,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Year_0-Summer-Reading_and_Writing/activities/M3 Worksheet.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Year_0-Summer-Reading_and_Writing/activities/M3 Worksheet.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,9 +162,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/Year_0-Summer-Reading_and_Writing/activities/M3 Worksheet.pdf"
-              }
+              "state": {}
             }
           }
         ]
@@ -209,20 +182,26 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "122477bd528bf27f",
+  "active": "822c5b62fbeec52c",
   "lastOpenFiles": [
-    "Notes/Year_0-Summer-Reading_and_Writing/activities/M3 Worksheet.pdf",
-    "Notes/Year_0-Summer-Reading_and_Writing/activities/M4 Worksheet.pdf",
-    "Notes/Year_0-Summer-Reading_and_Writing/Module 4 - Writing in the university.md",
-    "Notes/Year_0-Summer-Reading_and_Writing/Module 3 - UBC Library System.md",
-    "Notes/Year_0-Summer-Reading_and_Writing/activities/M4 Worksheet.docx",
-    "Notes/Year_0-Summer-Reading_and_Writing/images/Pasted image 20230721151535.png",
+    "Notes/Year_1",
+    "Notes/Year_0",
+    "Notes/Year_0/Summer-Reading_and_Writing/images/Pasted image 20230721151535.png",
+    "Notes/Year_0/Summer-Reading_and_Writing/images/Pasted image 20230713105906.png",
+    "Notes/Year_0/Summer-Reading_and_Writing/images/Pasted image 20230713094442.jpg",
+    "Notes/Year_0/Summer-Reading_and_Writing/activities/M4 Worksheet.pdf",
+    "Notes/Year_0/Summer-Reading_and_Writing/activities/M4 Worksheet.docx",
+    "Notes/Year_0/Summer-Reading_and_Writing/activities/M3.2 Vocabulary Template.pdf",
+    "Notes/Year_0/Summer-Reading_and_Writing/activities/M3.1 Vocabulary Template.pdf",
+    "Notes/Year_0/Summer-Reading_and_Writing/activities/M3 Worksheet.pdf",
+    "Notes/Year_0/Summer-Reading_and_Writing/activities/activity_2.3.4.pdf",
+    "Notes/Year_0/Summer-Reading_and_Writing/Module 4 - Writing in the university.md",
+    "Notes/Year_0/Summer-Reading_and_Writing/Module 3 - UBC Library System.md",
+    "Notes/Year_0/Summer-Reading_and_Writing/Module 2 - Reading and Noting.md",
+    "Notes/Year_0/Summer-Reading_and_Writing/images",
+    "Notes/Year_0/Summer-Reading_and_Writing/activities",
+    "Notes/Year_0/Summer-Reading_and_Writing",
     "Notes/Year_0-Summer-Reading_and_Writing/Module 2.md",
-    "Notes/Year_0-Summer-Reading_and_Writing/activities/M3.2 Vocabulary Template.pdf",
-    "Notes/Year_0-Summer-Reading_and_Writing/activities/M3.1 Vocabulary Template.pdf",
-    "Notes/Year_0-Summer-Reading_and_Writing/activities/activity_2.3.4.pdf",
-    "Notes/Year_0-Summer-Reading_and_Writing/activities",
-    "Notes/Year_0-Summer-Reading_and_Writing/Module 2 - Reading and Noting.md",
     "Untitled.canvas",
     "2023-07-14.md"
   ]
