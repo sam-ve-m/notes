@@ -14,3 +14,15 @@
 
 School's writing is much simpler than university one because of its main objective: to actually add the scientific ongoing conversation instead of just practicing or learning. Even though it higher the standards, it is more productive for the science community.
 
+### 4.2.3 Section Two check-in: Outlining a statement
+
+- Video
+	- Ernest Goh
+		- Mechanical Engineering
+	- Senior students helping
+	- Only one person commuting in cars
+	- Reduce air resistance to higher energy savings
+- Outline
+	- Professor and project intro
+	- Problem and solution explanation
+	- My opinion about narrow-track cars and cities infrastructure and actual culture.
